@@ -7,6 +7,7 @@ C++ and Data Structures Semester3
 
 # EXPERIMENT 1
 **Hello World and Calculator program**
+
 Aim:
 The aim of this experiment is to study and implement the basic structure of a C++ program, focusing on understanding the different data types available. This includes writing and executing simple programs such as printing "Hello World" and creating a basic calculator to perform arithmetic operations.
 
@@ -35,6 +36,7 @@ This experiment helped in understanding the basic syntax and structure of C++ pr
 
 # EXPERIMENT 2
 **To study and implement C++ Program Structure (Data Types)**
+
 Aim:
 The objective of this experiment is to study the overall structure of a C++ program and understand various data types such as int, float, char, and double. It focuses on declaring variables, initializing them, and displaying their values to understand how data types work in C++.
 
@@ -59,6 +61,7 @@ Through this experiment, the user learned about various data types in C++ and ho
 
 # EXPERIMENT 3
 **To study and implement Operators in C++**
+
 Aim:
 The aim is to study and implement various operators in C++, including arithmetic, relational, and logical operators, to understand their usage and impact on data manipulation and decision making.
 
@@ -83,6 +86,7 @@ This experiment provided a thorough understanding of how arithmetic, relational,
 
 # EXPERIMENT 4
 **To study and implement C++ Bitwise Operators**
+
 Aim:
 The objective is to study and implement bitwise operators in C++ that operate on individual bits of integer data types to perform low-level data manipulation efficiently.
 
@@ -105,6 +109,7 @@ This experiment enhanced the understanding of bitwise operators and their applic
 
 # EXPERIMENT 5
 **To study and implement C++ decision making statements**
+
 Aim:
 The aim is to study and implement various decision-making statements in C++ such as if, if-else, if-else-if, and switch-case. This helps control the flow of execution based on different conditions.
 
